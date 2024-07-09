@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+<style>
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: #333;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+</style>
+</head>
+<body>
+    <header>
+       <h1>Tribute Page</h1>
+    </header>
+
+    <main>
+        <section id="intro">
+             <center><h2>Sarvepalli Radhakrishnan </h2>
+            <img src="person.jpg" height="450" width="400" alt="Picture of the person"></center>
+            <p>Radhakrishnan was one of world's best and most influential twentieth-century scholars of comparative religion and philosophy. Radhakrishnan's defence of the Hindu traditions has been highly influential, both in India and the western world.</p>
+        </section>
+
+        <section id="aa">
+            <h3>About:</h3>
+            <ul>
+                <li>The value of life is to realize the divinity. Radhakrishnan says that in the ever growing flow of nature there is neither repose nor halt. Nature is never satisfied with the level it has reached.</li>
+                <li>Dr. Radhakrishnan had higher values and was committed to his principles. He taught the world the value of honesty, integrity, and intellect.</li>
+                <li>"Radhakrishnan" redirects here. For other people with this name, see Radhakrishnan (name).
+In this Telugu name, the surname is Sarvepalli.</li>
+            </ul>
+        </section>
+
+        <section id="bb">
+            <h3></h3>
+            <p>Sarvepalli Radhakrishnan OM, FBA (5 September 1888 – 17 April 1975; natively Radhakrishnayya) was an Indian politician, philosopher and statesman who served as the second president of India from 1962 to 1967. He previously served as the first vice president of India from 1952 to 1962. He was the second ambassador of India to the Soviet Union from 1949 to 1952. He was also the fourth vice-chancellor of Banaras Hindu University from 1939 to 1948 and the second vice-chancellor of Andhra University from 1931 to 1936. Radhakrishnan is considered one of the most influential and distinguished 20th century scholars of comparative religion and philosophy,he held the King George V Chair of Mental and Moral Science at the University of Calcutta from 1921 to 1932 and Spalding Chair of Eastern Religion and Ethics at University of Oxford from 1936 to 1952.</p>
+        </section>
+
+        <section id="cc">
+            <h3></h3>
+            <p>Indian President Sarvepalli Radhakrishnan with US President John F. Kennedy in the Oval Office, 1963
+Radhakrishnan was awarded scholarships throughout his academic life. He joined Voorhees College in Vellore for his high school education. After his F.A. (First of Arts) class, he joined the Madras Christian College (affiliated to the University of Madras) at the age of 16. He graduated from there in 1907, and also finished his Masters from the same college.
+
+Radhakrishnan studied philosophy by chance rather than choice. Being a financially constrained student, when a cousin who graduated from the same college passed on his philosophy textbooks to Radhakrishnan, it automatically decided his academics course.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by Geetanjali</p>
+    </footer>
+</body>
+</html>
